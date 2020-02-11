@@ -1,1 +1,1 @@
-# mypage
+# mypage - an angular adventure
